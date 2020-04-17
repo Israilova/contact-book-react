@@ -1,0 +1,12 @@
+{
+  "contacts": [
+    {
+      "name": "Harryy",
+      "lastName": "Potter",
+      "email": "harry_potter@mail.ru",
+      "phoneNumber": "7777777777",
+      "contactId": 1,
+      "id": 1
+    }
+  ]
+}

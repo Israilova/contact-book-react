@@ -1,0 +1,36 @@
+.add-contact {
+    margin: 0 auto;
+    text-align: center;
+    width: 350px;
+    height: 270px;
+}
+
+.add-contact input {
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+    padding: 13px 18px;
+    border: 0;
+    border-radius: 6px;
+    background-color: white;
+    opacity: .95;
+}
+
+.add-contact button {
+    display: inline-block;
+    background: transparent;
+    border: 1px solid rgb(91, 189, 192);
+    color: rgb(91, 189, 192);
+    font-size: 15px;
+    font-weight: 700;
+    margin: 10px;
+    padding: 13px 18px;
+    border-radius: 6px;   
+    cursor: pointer; 
+}
+
+.add-contact button:hover {
+    background-color:  rgb(91, 189, 192);
+    color: white;
+    border: white;
+}
